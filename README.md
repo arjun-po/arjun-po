@@ -1,25 +1,36 @@
 ## 👋 About Me
 
-Hello! I'm a final-year **Computer Engineering Diploma student**, passionate about learning and building real-world tech projects. I'm exploring full-stack development and AI, and I love creating apps that solve everyday problems in simple and meaningful ways.
+Hello! I'm a final-year Computer Engineering Diploma student, passionate about building real-world tech projects and ensuring their quality through proper testing. While I love creating apps and websites, I’ve recently developed a strong interest in software testing (QA) — understanding how things break and how to make them better.
+
+I’m actively learning manual testing practices like writing test cases, reporting bugs, and validating functionality. At the same time, I’m improving my skills in development to become a well-rounded software professional.
 
 🧠 Currently Exploring:
 
 🌐 Web Development – HTML, CSS, JavaScript
 
-📱 Mobile Development – Flutter (beginner level)
+📱 Mobile Development – Flutter (Beginner)
 
-💡 AI – Working on an object detection app using Google ML Kit
+🧪 Software Testing – Manual Testing, Test Case Design, Bug Reporting
 
-🧮 Problem Solving – Learning Java and practicing DSA
+🧠 DSA – Learning Java and Data Structures
 
-🧩 Improving my skills in **Python, Java**, and **Data Structures & Algorithms**
+💡 AI – Built an object detection app using Google ML Kit
 
-### 🌱 Goals:
-- Build practical projects that help people  
-- Learn full-stack development step by step  
-- Crack my first job as a software developer and continue learning on the job
+🔧 Backend – PHP (Beginner), Basic SQL
 
-> 🚀 _"I'm not an expert yet—but I’m learning, building, and growing every day!"_
+🌱 Goals:
+Get my first job as a Junior QA Engineer or Developer
+
+Build practical tech projects that solve real-world problems
+
+Learn full-stack development and testing methodologies in depth
+
+Contribute to a collaborative, quality-driven tech team
+
+Keep improving my debugging and test analysis skills
+
+🚀 "I'm not an expert yet—but I’m learning, building, and growing every day!"
+
 
 
 ## 🌐 Socials:
