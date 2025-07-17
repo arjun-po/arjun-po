@@ -1,35 +1,24 @@
-## 👋 About Me
+👋 About Me
+Hello! I'm a Computer Engineering Diploma Holder with a strong passion for software quality and user experience. While I’ve enjoyed building websites and apps, I’ve recently developed a deep interest in Software Testing (QA) — understanding how products fail, and how to make them more reliable and user-friendly.
 
-Hello! I'm a final-year Computer Engineering Diploma student, passionate about building real-world tech projects and ensuring their quality through proper testing. While I love creating apps and websites, I’ve recently developed a strong interest in software testing (QA) — understanding how things break and how to make them better.
+I'm actively learning manual testing, including writing test cases, reporting bugs, and validating key features. My goal is to begin my journey as a QA Intern, grow with real-world experience, and become a dependable part of a quality-driven tech team.
 
-I’m actively learning manual testing practices like writing test cases, reporting bugs, and validating functionality. At the same time, I’m improving my skills in development to become a well-rounded software professional.
 
 🧠 Currently Exploring:
-
-🌐 Web Development – HTML, CSS, JavaScript
-
-📱 Mobile Development – Flutter (Beginner)
-
 🧪 Software Testing – Manual Testing, Test Case Design, Bug Reporting
 
-🧠 DSA – Learning Java and Data Structures
-
-💡 AI – Built an object detection app using Google ML Kit
-
-🔧 Backend – PHP (Beginner), Basic SQL
 
 🌱 Goals:
-Get my first job as a Junior QA Engineer or Developer
+Start my career as a QA Intern
 
-Build practical tech projects that solve real-world problems
+Gain hands-on experience in testing real software
 
-Learn full-stack development and testing methodologies in depth
+Join a collaborative tech team focused on software quality
 
-Contribute to a collaborative, quality-driven tech team
+Keep improving my debugging, test design, and analysis skills
 
-Keep improving my debugging and test analysis skills
 
-🚀 "I'm not an expert yet—but I’m learning, building, and growing every day!"
+🚀 "I may be a beginner — but I'm learning, testing, and improving every day!"
 
 
 
