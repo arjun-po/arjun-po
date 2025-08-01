@@ -1,28 +1,21 @@
 👋 About Me
 
-I'm a Computer Engineering Diploma Holder with a strong passion for software quality and user experience. While I’ve enjoyed building websites and apps, I’ve recently developed a deep interest in Software Testing (QA) — understanding how products fail, and how to make them more reliable and user-friendly.
-
-I'm actively learning manual testing, including writing test cases, reporting bugs, and validating key features. My goal is to begin my journey as a QA Intern, grow with real-world experience, and become a dependable part of a quality-driven tech team.
-
-
-🧠 Currently Exploring:
-
-  🧪 Software Testing – Manual Testing, Test Case Design, Bug Reporting
-
+I’m a Computer Engineering Diploma holder with a strong interest in building and improving technology that solves real-world problems. Through my academic and internship experiences, I’ve explored web and mobile app development, UI/UX design basics, and how software functions behind the scenes.
 
 
 🌱 Goals:
 
-  Start my career as a QA Intern
+Start my career in a tech role that allows hands-on learning
 
-  Gain hands-on experience in testing real software
+Be part of a team that values quality and collaboration
 
-  Join a collaborative tech team focused on software quality
+Keep growing my skills in development, testing, or analysis
 
-  Keep improving my debugging, test design, and analysis skills
+Gain real-world experience and evolve with the industry
 
 
-🚀 "I may be a beginner — but I'm learning, testing, and improving every day!"
+
+🚀 "I may be a beginner — but I'm learning,and improving every day!"
 
 
 
